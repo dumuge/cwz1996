@@ -1,5 +1,6 @@
 [
-{romid:"NX512J-20170102",romurl:"http://url.cn/43FKtam",romsize:"类型：完整包：766MB"};
-{romid:"NX512J-20161219",romurl:"http://url.cn/42jISWA",romsize:"最新版本！88MB"},
-{romid:"NX512J-20161213",romurl:"http://url.cn/42SzMQo",romsize:"类型：完整包"}
+{romid:"NX512J-CZROM-V9.21-20170405",romurl:"http://bbs.nubia.cn/thread-848831-1-1.html",romsize:"新版本"};
+{romid:"NX512J-20170102",romurl:"http://url.cn/43FKtam",romsize:"旧版本"},
+{romid:"NX512J-20161219",romurl:"http://url.cn/42jISWA",romsize:"旧版本"},
+{romid:"NX512J-20161213",romurl:"http://url.cn/42SzMQo",romsize:"旧版本"}
 ]
